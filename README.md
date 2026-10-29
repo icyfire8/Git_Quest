@@ -14,17 +14,19 @@ Complete the quests below, follow the clues, and leave your mark on the reposito
 
 ## 🎒 Before You Begin
 
-First, get your local copy of the quest repository and create your own branch.
+1. **Fork** this repository using the Fork button at the top right.
+   ⚠️ Make sure **"Copy the main branch only" is unticked**, or you'll miss the clues!
+2. **Clone your fork** (not this repo) and create your own branch:
 
 ```bash
-git clone https://github.com/icyfire8/Git_Quest.git
+git clone https://github.com/<your-username>/Git_Quest.git
 cd Git_Quest
 git checkout -b my-branch-IIT2025123
 ```
 
-🔖 Replace `IIT2025123` with your own roll number.
+🔖 Replace `<your-username>` with your GitHub username and `IIT2025123` with your own roll number.
 
-⚠️ **Quest rule:** Do all your work on your own branch. Keep the `main` branch safe and sound!
+⚠️ **Quest rule:** Do all your work on your own branch. Never push to or edit `main` directly.
 
 ---
 
@@ -72,7 +74,7 @@ Add your cat directly to your introduction file under a heading like `### 🐾 M
 
 ### 🚀 Save Your Work & Push It
 
-Once your introduction and mood cat are ready, commit your changes and push your branch to GitHub.
+Once your introduction and mood cat are ready, commit your changes and push your branch to your fork.
 
 ```bash
 git add submissions/yourname.md
@@ -135,6 +137,14 @@ git push
 
 ---
 
+## 📬 Submit Your Quest
+
+1. Push your branch to your fork.
+2. Open a **Pull Request** from your branch to this repository's `main` branch.
+3. Submit your **Pull Request link** through the Google Form.
+
+---
+
 ## 🏁 Quest Complete!
 
 Congrats! 🎉
@@ -145,7 +155,8 @@ Before you wrap up, make sure you've completed everything:
 - [ ] 💡 Answered the introduction questions in your own words.
 - [ ] 🐱 Added your creative mood cat to your introduction.
 - [ ] 🚩 Found and added the correct hidden flag.
-- [ ] 🚀 Pushed your changes to your own branch.
+- [ ] 🚀 Pushed your changes to your own branch on your fork.
+- [ ] 📬 Opened a Pull Request and submitted its link in the Google Form.
 
 ---
 
