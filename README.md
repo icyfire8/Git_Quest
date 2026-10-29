@@ -1,2 +1,136 @@
-# Git_Quest
-GDG Weekly Challenges | Week 1: FOSS
+# 🧭 GIT QUEST
+GDG Weekly Challenges | Week 2: FOSS
+## 🗺️ 2 Levels. 1 Repository. Your Open Source Adventure Begins!
+
+Welcome, Git Adventurer! 🚀
+
+Ready to explore Git, discover hidden secrets, express yourself, and make your contribution? You've landed in the right place!
+
+Complete the quests below, follow the clues, and leave your mark on the repository. Whether you're a Git newbie or a version-control veteran, the adventure starts here! 🎮
+
+---
+
+## 🎒 Before You Begin
+
+First, get your local copy of the quest repository and create your own branch.
+
+```
+git clone https://github.com/icyfire8/Git_Quest.git
+cd Git_Quest
+git checkout -b my-branch-IIT2025123
+```
+
+🔖 Replace `IIT2025123` with your own roll number.
+
+⚠️ **Quest rule:** Do all your work on your own branch. Keep the `main` branch safe and sound!
+
+---
+## 📝 LEVEL 1: Intro Session
+
+Every great adventure begins with an introduction. Let's get to know you! 👋
+
+📂 **Your mission:** Create a file named `submissions/yourname.md` (e.g., `submissions/ankit_pal.md`).
+
+Inside it, answer the following questions:
+
+- 👋 **The Introduction:** What's your name, GitHub username, and why are you HERE at this college?
+- 🦸 **Your Hero:** What's your favourite open-source tool, if you have one?
+- 😂 **Comic Relief:** Share a programming joke or meme you've come across.
+- 💡 **Your Take on Open Source:** What does open source mean to you?
+  *(💚 Be yourself! We want to hear YOUR thoughts. No AI-generated answers for this question, please!)*
+
+### 🐱 The Mood Cat
+
+Create a little ASCII cat that represents your current mood!
+
+Start with this tiny companion:
+
+```
+ /\_/\
+( o.o )
+ > ^ <
+```
+
+Give your cat a personality by changing its eyes:
+
+| Mood | Eyes |
+|---|---|
+| 😄 Happy | `^.^` |
+| 😴 Sleepy | `-.-` |
+| 😵 Confused | `@.@` |
+| 😫 Stressed | `>.<` |
+
+🎨 **Want to go beyond the basics?** Add accessories, a funny expression, a hacker identity, or a tiny developer-themed twist. Surprise us with your creativity!
+
+Add your cat directly to your introduction file under a heading like `### 🐾 My Mood Cat` and make it uniquely yours.
+
+✨ **Pro tip:** Use Markdown headings, lists, and emojis to make your introduction stand out.
+
+### 🚀 Save Your Work & Push It
+
+Once your introduction and mood cat are ready, commit your changes and push your branch to GitHub.
+
+```
+git add submissions/yourname.md
+git commit -m "Introduced myself 🐱"
+git push -u origin my-branch-IIT2025123
+```
+
+🔖 Remember to replace the filenames and branch name with your own.
+
+---
+
+## 🏴‍☠️ LEVEL 2: The Hunt for the Hidden Flag
+
+A secret is buried somewhere in this repository... 👀
+
+Your mission, should you choose to accept it, is to uncover the complete flag:
+
+```
+FOSS{...}
+```
+
+### 🔍 Follow the Clues
+
+- 📂 **Start your hunt in the `task` folder.**
+- 🧩 The flag has **3 parts**.
+- 🎭 Beware of fake flags! Not every discovery is the real one.
+- 🕵️ Some clues might not be immediately visible, so explore carefully.
+- 🕰️ Git remembers more than your files show. Sometimes the past holds the answers.
+- 🔁 Once you've found the flag, **return to your own branch** before continuing.
+
+🚩 Found it? Add the complete flag at the bottom of your introduction file:
+
+```
+Flag: FOSS{...}
+```
+
+### 💻 Commit Your Discovery
+
+After adding the flag, commit and push the update:
+
+```
+git add submissions/yourname.md
+git commit -m "Uncovered the hidden flag"
+git push
+```
+
+---
+
+## 🏁 Quest Complete!
+
+Congrats! 🎉
+
+Before you wrap up, make sure you've completed everything:
+
+- 👋 Created `submissions/yourname.md`.
+- 💡 Answered the introduction questions in your own words.
+- 🐱 Added your creative mood cat to your introduction.
+- 🚩 Found and added the correct hidden flag.
+- 🚀 Pushed your changes to your own branch.
+
+---
+Every open-source contributor starts somewhere. This is your chance to learn, explore, experiment, and become part of the community.
+
+**Happy Hacking!** 💚
+
