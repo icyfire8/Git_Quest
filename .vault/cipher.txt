@@ -1,0 +1,6 @@
+🔐 This message is scrambled in BASE64!
+How to unscramble it:
+  Terminal:  tail -1 cipher.txt | base64 -d
+  or paste the last line into a site like base64decode.org
+
+UGFydCAxIGlzIGdpdF8gKHJ1biAnZ2l0IGxvZycgdG8gc2VlIENPTU1JVCBISVNUT1JZKQ==
