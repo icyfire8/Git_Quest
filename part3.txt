@@ -1,0 +1,3 @@
+🏴‍☠️ THE END: TREASURE CHEST
+Part 3 of the flag: life_
+Join all 3 parts inside FOSS{...} in the intro file of your branch and write the full flag there!
