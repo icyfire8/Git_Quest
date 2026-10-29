@@ -1,5 +1,7 @@
 # 🧭 GIT QUEST
-GDG Weekly Challenges | Week 2: FOSS
+
+**GDG Weekly Challenges | Week 2: FOSS**
+
 ## 🗺️ 2 Levels. 1 Repository. Your Open Source Adventure Begins!
 
 Welcome, Git Adventurer! 🚀
@@ -14,7 +16,7 @@ Complete the quests below, follow the clues, and leave your mark on the reposito
 
 First, get your local copy of the quest repository and create your own branch.
 
-```
+```bash
 git clone https://github.com/icyfire8/Git_Quest.git
 cd Git_Quest
 git checkout -b my-branch-IIT2025123
@@ -25,6 +27,7 @@ git checkout -b my-branch-IIT2025123
 ⚠️ **Quest rule:** Do all your work on your own branch. Keep the `main` branch safe and sound!
 
 ---
+
 ## 📝 LEVEL 1: Intro Session
 
 Every great adventure begins with an introduction. Let's get to know you! 👋
@@ -37,6 +40,7 @@ Inside it, answer the following questions:
 - 🦸 **Your Hero:** What's your favourite open-source tool, if you have one?
 - 😂 **Comic Relief:** Share a programming joke or meme you've come across.
 - 💡 **Your Take on Open Source:** What does open source mean to you?
+
   *(💚 Be yourself! We want to hear YOUR thoughts. No AI-generated answers for this question, please!)*
 
 ### 🐱 The Mood Cat
@@ -45,7 +49,7 @@ Create a little ASCII cat that represents your current mood!
 
 Start with this tiny companion:
 
-```
+```text
  /\_/\
 ( o.o )
  > ^ <
@@ -70,13 +74,13 @@ Add your cat directly to your introduction file under a heading like `### 🐾 M
 
 Once your introduction and mood cat are ready, commit your changes and push your branch to GitHub.
 
-```
+```bash
 git add submissions/yourname.md
 git commit -m "Introduced myself 🐱"
 git push -u origin my-branch-IIT2025123
 ```
 
-🔖 Remember to replace the filenames and branch name with your own.
+🔖 Remember to replace the filename and branch name with your own.
 
 ---
 
@@ -86,7 +90,7 @@ A secret is buried somewhere in this repository... 👀
 
 Your mission, should you choose to accept it, is to uncover the complete flag:
 
-```
+```text
 FOSS{...}
 ```
 
@@ -99,9 +103,21 @@ FOSS{...}
 - 🕰️ Git remembers more than your files show. Sometimes the past holds the answers.
 - 🔁 Once you've found the flag, **return to your own branch** before continuing.
 
-🚩 Found it? Add the complete flag at the bottom of your introduction file:
+> 💡 **Having trouble opening `secret.png`?**
+>
+> You can open the image directly from your terminal using the command for your operating system:
+>
+> | Operating System | Command |
+> |---|---|
+> | 🪟 Windows (Git Bash) | `start secret.png` |
+> | 🍎 macOS | `open secret.png` |
+> | 🐧 Linux | `xdg-open secret.png` |
+>
+> ⚠️ Run the command from the directory containing `secret.png`, or provide the correct relative path to the image.
 
-```
+🚩 **Found it?** Add the complete flag at the bottom of your introduction file:
+
+```text
 Flag: FOSS{...}
 ```
 
@@ -109,11 +125,13 @@ Flag: FOSS{...}
 
 After adding the flag, commit and push the update:
 
-```
+```bash
 git add submissions/yourname.md
-git commit -m "Uncovered the hidden flag"
+git commit -m "Uncovered the hidden flag 🔎"
 git push
 ```
+
+🔖 Replace `yourname.md` with your own filename.
 
 ---
 
@@ -123,14 +141,14 @@ Congrats! 🎉
 
 Before you wrap up, make sure you've completed everything:
 
-- 👋 Created `submissions/yourname.md`.
-- 💡 Answered the introduction questions in your own words.
-- 🐱 Added your creative mood cat to your introduction.
-- 🚩 Found and added the correct hidden flag.
-- 🚀 Pushed your changes to your own branch.
+- [ ] 👋 Created `submissions/yourname.md`.
+- [ ] 💡 Answered the introduction questions in your own words.
+- [ ] 🐱 Added your creative mood cat to your introduction.
+- [ ] 🚩 Found and added the correct hidden flag.
+- [ ] 🚀 Pushed your changes to your own branch.
 
 ---
+
 Every open-source contributor starts somewhere. This is your chance to learn, explore, experiment, and become part of the community.
 
-**Happy Hacking!** 💚
-
+**Happy Hacking! 💚**
