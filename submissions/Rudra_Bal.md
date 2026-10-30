@@ -35,10 +35,16 @@ Honestly , I don't know much about it .... I am currently exploring it . I think
 ### 🐱 The Mood Cat :
 
 ```text
-       / \__/\   <--headphones to stay alive and keep debugging
+       / \__/\   <--headphones to stay alive & keep debugging
       ( - . @ )      <-- Confused,sleepy from fixing C leaks!
       /|  🧋  |\      <-- coffee for focus and deep work
      / |  _  | \  [===KEYBOARD===]
     (_____|_|_____)
 
 ```
+
+---
+
+### 🚩 Level 2 Flag :
+
+`FOSS{git_my_life_}`
