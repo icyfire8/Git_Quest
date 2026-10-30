@@ -4,14 +4,14 @@
    I am here because this is the best I was able to get with my jee rank { -_-^'}
    which also coincided with my interests.
 
-2] Well, I haven't used many open-source softwares but For now i ove that "Linux"
+2] Well, I haven't used many open-source softwares but For now I love that "Linux"
    is open-source coz i like ubuntu nano much better than vs code for C++ and C.
 
-3] Why won't coders buy 5-star int he future ?
+3] Why won't coders buy 5-star in the future ?
  
     .....
 
-   no-one > coz they aldready won't be doing nothing ;)
+   no-one > coz they would aldready be doing nothing :\
 
 4] I think opensource is the most natural idea that would come across a devloper's 
    mind who is working globally , it is the most fundamental thing the programmer 
@@ -20,10 +20,10 @@
 ### Here is my Mood cat ###
  __________________________
 
- #        /\ _ /\
- #        ( @.@ )
- #        -{ _ }-
- #          | |
+          /\ _ /\
+          ( @.@ )
+          -{ _ }-
+            | |
  __________________________
 
 
