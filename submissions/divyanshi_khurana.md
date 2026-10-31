@@ -30,11 +30,11 @@
    Open source also let's you learn from other developers and receive feedback.
 
 ## 🐾My Mood Cat
-   ```text
-   /\_/\
-  ( -.- )
-   > ^ <
+  ```text
+ /\_/\
+( -.- )
+ > ^ <
 
-   z Z z 
-   Too tired to code..
-   ```
+ z Z z
+Too tired to code...
+```
