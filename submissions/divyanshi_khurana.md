@@ -6,7 +6,7 @@
    - **GitHub:** divyanshikhurana79-dotcom
    - **Why I am here:** IIITA is best known for it's coding culture.My interest in coding and other Technical skills and willingness to learn more was something that led to me choosing IIITA.
 
-## 🦸My facvorite open-source tool
+## 🦸My favorite open-source tool
    - **Git** 
 
    It track changes in a project and allows developers to collabrate.
