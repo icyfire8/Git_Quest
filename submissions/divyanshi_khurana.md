@@ -29,9 +29,10 @@
    I think open source is very useful as it makes code publicily available for people to learn from it,improve and contribute to.
    Open source also let's you learn from other developers and receive feedback.
 
-## 🐾My Mood Cat
-  ```text
- /\_/\
+### 🐾 My Mood Cat
+
+```text
+ /\_/\\
 ( -.- )
  > ^ <
 
