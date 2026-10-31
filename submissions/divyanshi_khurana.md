@@ -4,7 +4,7 @@
 
    - **Name:** Divyanshi Khurana
    - **GitHub:** divyanshikhurana79-dotcom
-   - **Why I am here:** IIITA is best known for it'c coding culture.My intersets in coding and other Tecnical skills and willingness to learn more was something that let to me choosing IIITA.
+   - **Why I am here:** IIITA is best known for it's coding culture.My interest in coding and other Technical skills and willingness to learn more was something that led to me choosing IIITA.
 
 ## 🦸My facvorite open-source tool
    - **Git** 
