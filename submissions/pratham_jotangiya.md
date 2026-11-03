@@ -1,4 +1,4 @@
-\# Hey, I'm Pratham Jotangiya! 👋
+\# Hare Krishna 🙏
 
 
 
@@ -20,13 +20,13 @@
 
 
 
-"Money follows my brother, money follows!" 😎
+"Money💸follows my brother, money follows!" 😎
 
 
 
 I didn't come here just for the college life.
 
-I'm here to build discipline, stay consistent,
+I'm here to build discipline, stay consistent🔥,
 
 and make something meaningful out of my journey.
 
