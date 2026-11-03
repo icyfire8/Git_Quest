@@ -10,7 +10,7 @@
 
 \- \*\*GitHub:\*\* \[pratham-cps](https://github.com/pratham-cps)
 
-\- \*\*Codeforces:\*\* Pratham\_CP (Pupil)
+\- \*\*Codeforces:\*\* Pratham\_CP (Pupil)(https://codeforces.com/profile/Pratham\_CP)
 
 \- \*\*CodeChef:\*\* pratham\_cp (2★)
 
@@ -79,6 +79,10 @@ This is my first step into it through this task not knowing much. But i know tha
 
 
 \### 🐾 My Mood Cat
+
+
+
+It is attached in different file(hope it works)
 
 
 
